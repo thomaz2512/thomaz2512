@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me: Meu nome é João Thomaz Vieira, sou estudante de Ciência da Computação na Universidade Tuiuti do Paraná - UTP.<br><br>🔭 Atualmente estagio com meu professor no EMC - Escritório Modelo de Computação, localizada na UTP<br>🌱 Atualmente estou estudando e botando em prática a linguagem PHP, trabalhando em aplicações de sistemas dentro da minha universidade.<br>⚡ Fun fact: Nasci no dia 25/12/2002 em Belém do Pará, e atualmente moro em Curitiba.
+About Me: Atualmente, faço estágio no EMC — Escritório Modelo de Computação, localizado na Universidade Tuiuti do Paraná (UTP).<br><br>🔭 Atualmente estagio com meu professor no EMC - Escritório Modelo de Computação, localizada na UTP<br>🌱 Atualmente estou estudando e botando em prática a linguagem PHP, trabalhando em aplicações de sistemas dentro da minha universidade.<br>⚡ Fun fact: Nasci no dia 25/12/2002 em Belém do Pará, e atualmente moro em Curitiba.
 
 
 ## 🌐 Socials:
